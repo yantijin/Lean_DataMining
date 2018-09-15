@@ -10,6 +10,7 @@ datamining Algorithms
     + 初始化：创建k个中心点
   - 算法整体思想：见https://blog.csdn.net/qq_36219266/article/details/82657694
 ## Apriori.py:
+* 根据关联规则进行数据挖掘
   - 主要函数：
     + 创建初始候选集
     + 计算支持度
