@@ -1,4 +1,4 @@
-from K_Means import (
+from K_means.K_Means import (
     point_avg,
     distance,
     generate_k,

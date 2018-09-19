@@ -1,7 +1,4 @@
 # from K_Means import fileread
-from K_Means import k_means
-from K_Means import generate_k
-from Apriori import aprioriGen
 from python_util import fileread
 from Learn_Apriori import createInitCandidates
 from Learn_Apriori import calSupport
