@@ -20,5 +20,6 @@ datamining Algorithms
   - 算法整体思想：见https://blog.csdn.net/qq_36219266/article/details/82707708
 ## FP_Tree算法：
 * 根据关联规则进行数据挖掘，找到频繁项集
-  - 算法整体思想：http://www.cnblogs.com/zhangchaoyang/articles/2198946.html
+  - 算法整体思想：https://blog.csdn.net/qq_36219266/article/details/82784299
+          
     
