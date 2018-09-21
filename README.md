@@ -21,5 +21,7 @@ datamining Algorithms
 ## FP_Tree算法：
 * 根据关联规则进行数据挖掘，找到频繁项集
   - 算法整体思想：https://blog.csdn.net/qq_36219266/article/details/82784299
-          
+## AdaBoost Algorithm:
+* 整体思想就是根据bagging算法，比如，去看医生，n个医生有n个方法，其中出现次数最多的方法可能是最优解，现在为这些医生赋予权重
+  - 算法整体思想：https://blog.csdn.net/qq_36219266/article/details/82799071
     
