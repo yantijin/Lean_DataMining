@@ -24,4 +24,5 @@ datamining Algorithms
 ## AdaBoost Algorithm:
 * 整体思想就是根据bagging算法，比如，去看医生，n个医生有n个方法，其中出现次数最多的方法可能是最优解，现在为这些医生赋予权重
   - 算法整体思想：https://blog.csdn.net/qq_36219266/article/details/82799071
+  - 现在只是二分类，实际上可以*多分类*，这里属于遗留问题
     
