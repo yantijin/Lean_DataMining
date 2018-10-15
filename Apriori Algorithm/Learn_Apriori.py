@@ -1,6 +1,6 @@
 #coding = utf-8
 import numpy
-#from python_util import fileread
+from python_util import fileread
 
 """
     程序所需部分：
@@ -38,7 +38,7 @@ def createInitCandidates(data_set):
         data_set:交易数据
         candidate：候选项集合
     OUTPUT:
-        
+
 """
 
 
