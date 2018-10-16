@@ -28,4 +28,6 @@ datamining Algorithms
 ## CART Algorithm:
 * 分类回归树,建立决策树是根据基尼系数的改变量,而后通过后剪枝的过程使得树不要分的太细致
 * 参考博客为:https://blog.csdn.net/xiaqunfeng123/article/details/34820095
+## ID3 Algorithm
+* ID3算法,也是建立决策树,是根据信息熵的增益来建树,而C4.5是信息熵增益比来建树
     
